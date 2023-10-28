@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+body{
+    margin: 0;
+    background-color: black;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.navbar-left{
+    padding-left: 10px;
+}
+.navbar-right{
+    align-items: center;
+    padding-right: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+}
+.a-element{
+    padding: 10px;
+}
+.logo{
+    height: 200px;
+}
+.home{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 85vh;
+    align-items: center;
+   
+}
+.home-right{
+    width: 50vw;
+}
+    
+.home-left{
+    width: 50vw;
+
+   
+    
+}
+.img{
+    height: 500px;
+    padding-top: 50PX;
+}
+.para{
+    font-family: 'Courier New', Courier, monospace;
+}
+.he1{
+    color:rgb(230, 230, 27);
+}
+.social-media{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.insta-img{
+    height: 50px;
+    padding: 10px;
+
+
+}
+.what-img{
+    height: 50px;
+    padding: 10px;
+}
+.flh1{
+    color: yellow;
+}
